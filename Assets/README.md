@@ -1,55 +1,39 @@
 ## Project Title
 
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
+**Side Quest Week 2: Frustrated Blob**
 
 ---
 
 ## Group Number (only for group work)
 
-List your group number.
+N/A (Individual Side Quest)
 
 ---
 
 ## Description
 
-Briefly describe what your project does.  
-Explain what the user will see, how they can interact, and what inspired the design.
-
-Example:
-
-> This project lets users switch between shapes using keyboard inputs.  
-> It explores how visual feedback can communicate accessibility states.
+This project is a small p5.js platformer that redesigns a soft blob character’s movement and environment to express the emotion **frustration**.  
+The blob feels intentionally sluggish and unresponsive, with sticky movement, delayed input, and subtle environmental interference. Platforms and visual feedback work together to create a sense of resistance, making the experience playable but deliberately irritating.
 
 ---
 
 ## Interaction Instructions
 
-Describe how to use or play your project.
+- Use **A / D** or **← / →** to move left and right
+- Press **Space**, **W**, or **↑** to jump (only when grounded)
+- Land on platforms to move through the environment
 
-- How does the user start?
-- What controls or keys do they use?
-- Any important visual or audio feedback to watch for?
-
-Example:
-
-> Press `S` to switch shapes and `R` to reset the canvas.
+The blob’s delayed response, heavy movement, and visual shake feedback are intentional and reflect the frustration theme.
 
 ---
 
 ## Assets
 
-List any images, sounds, or other files used in your assets/ folder.
-Include in-text citations for all assets that are not your own, and connect them to your reference list.
-
-Example:
-
-> - `assets/sound/beep.mp3` (created in GarageBand)
-> - `assets/image/background.png` (original artwork)
+- No external assets were used.
+- All visuals and interactions were generated using p5.js code created for this project.
 
 ---
 
 ## References
 
-Connect your in-text citations to the reference list along with additional sources that informed your design but were not directly cited. Provide all citations using the ACM reference format.
-
----
+- p5.js Reference. https://p5js.org/reference/
